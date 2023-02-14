@@ -5,7 +5,7 @@ const data = {
         "name": "Холодильник",
         "category": "Техника",
         "description": "Холодильник - описание",
-        "img": "https://avatars.mds.yandex.net/get-mpic/4413406/img_id6002073624450951784.jpeg/orig",
+        "img": "https://www.ixbt.com/img/r30/00/02/10/89/nord.jpg",
         "price": 375
       },
       {
